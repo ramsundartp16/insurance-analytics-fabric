@@ -88,7 +88,6 @@ power_bi/
 ├── Insurance_Performance_Dashboard.png
 ├── Insurance_Performance_KPI.png
 ├── Insurance_Performance_Trend.png
-├── Insurance_Performance_e2e_architecture.png
 └── Insurance_Semantic_Model.png
 architecture/
 └── Insurance_Performance_e2e_architecture.png
